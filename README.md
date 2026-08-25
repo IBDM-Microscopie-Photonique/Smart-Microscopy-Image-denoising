@@ -58,7 +58,6 @@ Smart-Microscopy-Image-denoising/
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ---
