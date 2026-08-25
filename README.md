@@ -561,10 +561,3 @@ This design allows a single GPU processing workstation to serve different client
 
 ---
 
-# License and Third-Party Code
-
-The ZEISS ZEN client is based in part on ZEISS-provided macro code and retains the original copyright and permission notice included in the source file.
-
-μPiX is an external project available on GitLab: **[sicomp / muPIX](https://gitlab.lis-lab.fr/sicomp/mupix)**. It is not included in this repository unless its license explicitly permits redistribution.
-
-Before publishing the repository publicly, verify the licensing requirements of all third-party components.
